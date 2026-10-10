@@ -11,21 +11,6 @@
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-## 🚀 About Me
-
-```python
-class MohamedHaggag:
-    role = "M.Sc. Robotics Student @ TUM | Working Student @ Quantum-Systems"
-    location = "Munich, Germany 🇩🇪"
-    languages = ["Arabic (native)", "German (C1)", "English (C1)"]
-    interests = [
-        "Motion Planning",
-        "Robot Dynamics & Control",
-        "Autonomous Systems",
-        "Robotic Manipulation",
-    ]
-```
-
 ## 🔥 Highlights
 
 - 🦾 Built a **robot-agnostic kinematics & dynamics library from scratch** in Python — no ROS, no existing dynamics libraries — driving an **ABB GoFa**, **SCHUNK PowerCube** and **Franka Emika Panda** from YAML models
@@ -66,6 +51,8 @@ class MohamedHaggag:
 </p>
 
 **Robotics:** Motion Planning · SLAM · Robot Dynamics · Impedance Control · Firmware Development
+
+**Languages:** Arabic (native) · German (C1) · English (C1)
 
 ---
 
