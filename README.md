@@ -31,7 +31,7 @@ class MohamedHaggag:
 - 🦾 Built a **robot-agnostic kinematics & dynamics library from scratch** in Python — no ROS, no existing dynamics libraries — driving an **ABB GoFa**, **SCHUNK PowerCube** and **Franka Emika Panda** from YAML models
 - 🧽 Developed a **Cartesian impedance controller in C++ / ROS 2** for force-regulated desk wiping — designed in **MuJoCo**, deployed on a **real Franka Panda**
 - 🏎️ Bachelor thesis in **autonomous motorsport**: mapping, hierarchical decision-making and safe return trajectories for the *safe use of Secondary Drivable Areas*
-- 🚁 At **Quantum-Systems**, developing **robot control software** and the **robotic gripping system** for the Drone Port — an autonomous robotic arm that catches, stores and launches UAVs
+- 🚁 At **Quantum-Systems**, developing **robot control software** and **embedded C++ firmware** for the Drone Port — an autonomous robotic arm that catches, stores and launches UAVs
 
 ---
 
@@ -39,7 +39,7 @@ class MohamedHaggag:
 
 | When | Where | What |
 |------|-------|------|
-| 2024 – now | **Quantum-Systems GmbH** | Working Student, Drone Port Team — robot control software for an autonomous UAV-handling robotic arm, robotic gripper design, force/torque-based wind analysis, robot–UAV flight testing, operator & test tooling, C++ firmware |
+| 2024 – now | **Quantum-Systems GmbH** | Working Student, Drone Port Team — robot control software for an autonomous UAV-handling robotic arm, embedded C++ firmware for Drone Port components, force/torque-based wind analysis, robot–UAV flight testing, operator & test tooling, robotic gripper design (CATIA V5) |
 | 2023 – 2024 | **Knorr-Bremse Rail Vehicle Systems** | Working Student — data-based validation of friction material performance |
 | 2022 – 2023 | **Optimol Instruments Prüftechnik** | Working Student — force-sensor measurement & control, test software, prototype design |
 
