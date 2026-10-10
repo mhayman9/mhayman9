@@ -13,7 +13,7 @@
 
 ## 🔥 Highlights
 
-- 🦾 Built a **robot-agnostic kinematics & dynamics library from scratch** in Python — no ROS, no existing dynamics libraries — driving an **ABB GoFa**, **SCHUNK PowerCube** and **Franka Emika Panda** from YAML models
+- 🦾 Built a **robot-agnostic kinematics & dynamics library from scratch** in Python — no existing dynamics libraries — driving an **ABB GoFa**, **SCHUNK PowerCube** and **Franka Emika Panda** from YAML models
 - 🧽 Developed a **Cartesian impedance controller in C++ / ROS 2** for force-regulated desk wiping — designed in **MuJoCo**, deployed on a **real Franka Panda**
 - 🏎️ Bachelor thesis in **autonomous motorsport**: mapping, hierarchical decision-making and safe return trajectories for the *safe use of Secondary Drivable Areas*
 - 🚁 At **Quantum-Systems**, developing **robot control software** and **embedded C++ firmware** for the Drone Port — an autonomous robotic arm that catches, stores and launches UAVs
