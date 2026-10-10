@@ -24,7 +24,6 @@ class MohamedHaggag:
         "Autonomous Systems",
         "Robotic Manipulation",
     ]
-    currently = "Building autonomous robotic arms that catch & launch drones 🚁"
 ```
 
 ## 🔥 Highlights
@@ -33,7 +32,6 @@ class MohamedHaggag:
 - 🧽 Developed a **Cartesian impedance controller in C++ / ROS 2** for force-regulated desk wiping — designed in **MuJoCo**, deployed on a **real Franka Panda**
 - 🏎️ Bachelor thesis in **autonomous motorsport**: mapping, hierarchical decision-making and safe return trajectories for the *safe use of Secondary Drivable Areas*
 - 🚁 At **Quantum-Systems**, developing **robot control software** and the **robotic gripping system** for the Drone Port — an autonomous robotic arm that catches, stores and launches UAVs
-- 🧪 Running **functional & flight tests** that verify autonomous robot–UAV interaction
 
 ---
 
@@ -74,10 +72,3 @@ class MohamedHaggag:
 ## 🌱 Currently
 
 - 🤖 Deepening my **ROS 2** skills
-- 🎥 Soon: sharing my robotics journey on social media — stay tuned!
-
----
-
-## ⚡️ Motto
-
-> **“From equations of motion to robots in motion.”**
